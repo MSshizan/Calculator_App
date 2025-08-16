@@ -24,7 +24,7 @@ This app allows users to perform simple arithmetic operations like addition, sub
 ---
 
 ## 📷 Screenshots
-![image alt]()
+![image alt](Screenshot 2025-08-16 134646.png)
 
 ---
 
