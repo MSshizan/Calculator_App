@@ -24,7 +24,7 @@ This app allows users to perform simple arithmetic operations like addition, sub
 ---
 
 ## 📷 Screenshots
-![image alt](Screenshot 2025-08-16 134646.png)
+![image alt](https://github.com/MSshizan/Calculator_App/blob/2bf274bae06641d050d888244301d78c2faf775c/Screenshot%202025-08-16%20134646.png)
 
 ---
 
